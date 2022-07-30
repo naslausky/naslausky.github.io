@@ -32046,7 +32046,7 @@ if(p<q){k=j.mu(p)
 if(s.$2(a,k)>0){B.b.m(j.b,b,k)
 b=p}}B.b.m(j.b,b,a)}}
 A.zx.prototype={
-R(a,b){var s,r=null,q=A.R1(b,!0,t.hv).b,p=t.E,o=A.a([new A.x0(new A.lJ("images/avatar.jpg",r,r),25,r)],p)
+R(a,b){var s,r=null,q=A.R1(b,!0,t.hv).b,p=t.E,o=A.a([new A.x0(new A.lJ("assets/images/avatar.jpg",r,r),25,r)],p)
 if(q.length!==0){s=new A.dq(B.jE,0,B.aS)
 o.push(A.a4k(new A.fP(B.wk,A.MV(r,A.a1g(A.a([A.a41(r,r,new A.Cv(B.cT,r),B.B),A.a4k(A.xG(r,new A.fP(new A.bb(8,8,8,8),new A.xC(B.jc,B.pg,B.ph,B.ds,r,B.j_,r,A.a([A.agr(q,A.tF(r,r,r,r,r,r,r,r,r,r,r,20,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.fP(B.wi,B.H2,r)],p),r),r),B.z,r,r,new A.fq(B.cT,r,new A.cH(s,s,s,s),B.rN,r,r,B.bq),r,r,r,r,r,r))],p),B.dr,B.e9),B.az,!1,r,r,r,r,r,r,r,r,r,r,new A.Pc(b),r,r,r,r,r,r),r)))}return new A.fP(B.wj,A.a1g(o,B.dr,B.e9),r)}}
 A.Pc.prototype={
